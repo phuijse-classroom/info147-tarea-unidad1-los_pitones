@@ -3,3 +3,5 @@ numpy
 matplotlib
 ipympl
 pandas
+ipywidgets
+pycountry_convert
